@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3abdb9b1.css",
+    "main.js": "/portfolio/static/js/main.935f6ed4.js",
+    "static/media/pro7.jpg": "/portfolio/static/media/pro7.3fd9929c85cf9a39aafd.jpg",
+    "static/media/pro5.jpg": "/portfolio/static/media/pro5.b19cd700c2e3e05c3e46.jpg",
+    "static/media/proandroid.jpg": "/portfolio/static/media/proandroid.d1e8fc1125aabd0b10ec.jpg",
+    "static/media/pro2.png": "/portfolio/static/media/pro2.9b3969fdf90fad5d2284.png",
+    "static/media/proj.jpg": "/portfolio/static/media/proj.d2b91a3d021669906b89.jpg",
+    "static/media/pro3.jpg": "/portfolio/static/media/pro3.f8240570a12265491f65.jpg",
+    "static/media/pro8.png": "/portfolio/static/media/pro8.5409af6e6ef001427710.png",
+    "static/media/pro4.jpg": "/portfolio/static/media/pro4.86f824a589e361975287.jpg",
+    "static/media/pro9.png": "/portfolio/static/media/pro9.bac924cd89ca89a9ec7b.png",
+    "static/media/intro.jpg": "/portfolio/static/media/intro.6fa5fdf1751d6e151c08.jpg",
+    "static/media/pro1.png": "/portfolio/static/media/pro1.8b063643bb463ebf49c0.png",
+    "static/media/pro6.png": "/portfolio/static/media/pro6.c6ba8dc0ea7d84e7dacc.png",
+    "static/media/aboutp.webp": "/portfolio/static/media/aboutp.b33e2abf265684dfe76d.webp",
+    "index.html": "/portfolio/index.html",
+    "main.3abdb9b1.css.map": "/portfolio/static/css/main.3abdb9b1.css.map",
+    "main.935f6ed4.js.map": "/portfolio/static/js/main.935f6ed4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3abdb9b1.css",
+    "static/js/main.935f6ed4.js"
+  ]
+}
